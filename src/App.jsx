@@ -22,7 +22,7 @@ export default function App() {
 
   return (
     <>
-      <h1>Project 4: Shopping List</h1>
+      <h1>Project 2: Shopping List</h1>
       <div className="shopping-list">
         <h2>Items To Buy</h2>
         <form onSubmit={onSubmit}>
